@@ -36,6 +36,7 @@
 <body> 
 <div class="jumbotron text-center"> 
     <h1>CRUD CI APP</h1> 
+    <h1>Sushat pagar</h1>
 </div> 
 <div class="container"> 
     <h1 class="text-center mb-4">Edit Product</h1> 
